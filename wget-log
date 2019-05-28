@@ -1,15 +1,0 @@
---2019-05-28 09:37:52--  https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518791841217-8f162f1e1131%3Fixlib%3Drb-1.2.1%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26w%3D1000%26q%3D80
-Resolving www.google.com (www.google.com)... 216.58.199.164, 2404:6800:4009:80b::2004
-Connecting to www.google.com (www.google.com)|216.58.199.164|:443... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://www.google.com/imghp [following]
---2019-05-28 09:37:52--  https://www.google.com/imghp
-Reusing existing connection to www.google.com:443.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘imgres?imgurl=https:%2F%2Fimages.unsplash.com%2Fphoto-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80’
-
-               imgres?imgurl=     [<=>                                             ]       0  --.-KB/s               imgres?imgurl=https:%2F%2Fima     [ <=>                                            ]  11.18K  --.-KB/s    in 0s      
-
-2019-05-28 09:37:52 (80.0 MB/s) - ‘imgres?imgurl=https:%2F%2Fimages.unsplash.com%2Fphoto-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80’ saved [11444]
-
