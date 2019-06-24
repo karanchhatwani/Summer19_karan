@@ -1,0 +1,7 @@
+from InstagramAPI import InstagramAPI
+InstagramAPI = InstagramAPI("InstaUsername", "InstaPassword")
+InstagramAPI.login()  # login
+
+photo_path = 'C:\\Users\\user\\insta.jpg'
+caption = "Sample photo"
+InstagramAPI.uploadPhoto(photo_path, caption=caption)
